@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blank Page</title>
+</head>
+<body>
+
+  <h1>Hello, world!</h1>
+  <p>This is a blank HTML page template.</p>
+
+<iframe 
+  src="https://docs.google.com/forms/d/e/1FAIpQLSfGMrrlU85fKP7l02PbqbhJ3EEsP0LTdS782kXa48bAXO_YCA/viewform?usp=pp_url&entry.872097547=311Data&embedded=true" 
+  width="380" 
+  height="1429" 
+  frameborder="0" 
+  marginheight="0" 
+  marginwidth="0">
+  Loading…
+</iframe>
+  
+</body>
+</html>
